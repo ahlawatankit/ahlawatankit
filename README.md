@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahlawatankit
-- 👀 I’m interested in ML 
+- 👀 I’m interested in MLOps and NLP 
 - 🌱 I’m currently learning how to live
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me at amkithbti2014@outlook.com
